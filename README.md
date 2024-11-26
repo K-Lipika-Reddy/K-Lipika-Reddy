@@ -28,7 +28,7 @@ Collaborated with a team to analyze data for business insights and decision-maki
 ### 🚀 *Group 2: *Digital Explorers Team*  
 Focused on predictive analytics and creating dynamic Power BI dashboards.  
 
-| ![Group 2 Logo](https://github.com/krish-na-1010/krish-na-1010/blob/e0813a3c3a8d791f355a166749149e7aa8de9cf0/p_2%20logo.jpg) |  
+| ![Group 2 Logo](https://github.com/K-Lipika-Reddy/K-Lipika-Reddy/blob/b687de9f86f7e02fd410e1bbda9e07d078489cc0/logo.jpg) |  
 |------------------------------------|  
 | *Team Lead*: **Shaik Yusuf Shaik** |  
 | *Members*: **Lipika**, Shreya, Rahul |  
